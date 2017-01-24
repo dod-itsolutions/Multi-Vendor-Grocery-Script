@@ -5,15 +5,20 @@ Every business wish to be one or other way the same and if you want to start a s
 
 <h2> Features </h2>
 • Wallet<br>
-• Inventory Management<br>
 • QR Code Scanner<br>
+• Quick Comparisons<br>
+• Deals and Offers<br>
 • Coupon Code Generation<br>
-• Online Tracking<br>
+• Shopping Cart and Checkout<br>
+• Wastage Analysis and Management<br>
+• Quick Buy<br>
+• Multi-store Management<br>
+• 1 Click Check Out<br>
+• Swipe Card Reader Interface<br>
+• Real-Time Tracking<br>
+• Analytics & Reports<br>
+• SMS & Email Notifications<br>
+• Payment Gateway<br>
 • Android App<br>
 • IOS App<br>
-• Weekly/Monthly/Yearly Reports<br>
-• Payment Gateway<br>
-• Billing<br>
-• Shopping Cart and Checkout<br>
-• Email Generation<br>
-• SMS Generation<br>
+• Easy, Fast & Robust Billing<br>
